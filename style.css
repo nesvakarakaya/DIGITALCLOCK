@@ -57,3 +57,7 @@ h2{
     background: rgb(22, 105, 104);
 
 }
+
+.error-message{
+    color:red;
+}
